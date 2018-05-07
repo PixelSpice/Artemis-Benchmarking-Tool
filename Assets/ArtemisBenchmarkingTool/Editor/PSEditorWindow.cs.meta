@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 157a1b6a018bf024c960d0ada29367f5
+timeCreated: 1521079067
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - ShapeSceneTexture: {fileID: 2800000, guid: 3f4fc7cfcce114e459ff508491b37606, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
